@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS generated folders
+__MACOSX/
+
+# Backup files
+*.FCBak
+*.bak
