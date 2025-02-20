@@ -8,8 +8,7 @@ These files are modeled using **FreeCAD** as part of a learning exercise. Each f
 
 ## Contents
 - `.FCStd` files for each exercise.
-- Screenshots of completed models (if applicable).
-- Practice notes (if needed).
+- 2D Reference image from Grabcad.
 
 ## Requirements
 - **FreeCAD** (Recommended version: Latest stable release)
